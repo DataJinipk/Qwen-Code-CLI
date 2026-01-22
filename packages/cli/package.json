@@ -43,7 +43,7 @@
     "ink-gradient": "^3.0.0",
     "ink-link": "^4.1.0",
     "ink-spinner": "^5.0.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "lowlight": "^3.3.0",
     "mime-types": "^3.0.1",
     "open": "^10.1.2",
